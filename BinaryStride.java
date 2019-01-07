@@ -2,7 +2,8 @@ import java.util.Scanner;
 
 public class BinaryStride {
 
-
+//https://www.topcoder.com/blog/binary-stride-a-variant-on-binary-search/
+    
     static int binaryStride(int arr[], int val) {
         if(arr.length==0)
             return -1;
